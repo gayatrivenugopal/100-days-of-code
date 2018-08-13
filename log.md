@@ -25,5 +25,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Unable to call a user-defined function. Have to fix this before moving on to collections. Very important as this is the base of this application.
 
+### Day 4: August 13, 2018
+
+**Today's Progress**: Finally fixed the code. Did not need Py4J. Compiled the files and used the class files in Python using subprocess. Had to set the current working directory in the function.
+
+**Thoughts:** Now I can go to sleep!
+
 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
