@@ -31,5 +31,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Now I can go to sleep!
 
+### Day 5: August 14, 2018
+
+**Today's Progress**: Unable to find the stem of a word. Comments and files missing from the official HWN API.
+
+**Thoughts:** Tried to find many workarounds; none worked. Will spend one more day and this and move on to the other tasks.
+
 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
