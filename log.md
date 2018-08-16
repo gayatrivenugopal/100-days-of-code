@@ -37,5 +37,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Tried to find many workarounds; none worked. Will spend one more day and this and move on to the other tasks.
 
+### Day 6: August 16, 2018
+
+**Today's Progress**: Wrote debugging statements to find the issue. To be continued tomorrow...
+
+**Thoughts:** It gets frustrating when we rely a lot on a third party tool, and it doesn't behave as expected.
 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
