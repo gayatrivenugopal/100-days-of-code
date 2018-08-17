@@ -43,4 +43,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** It gets frustrating when we rely a lot on a third party tool, and it doesn't behave as expected.
 
+### Day 7: August 17, 2018
+
+**Today's Progress**: Finally found the issue. The word was not being passed in the correct format.
+
+**Thoughts:** Spent a lot of time to find out that the program was behaving unexpectedly because of the way I was passing the word!
+
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
