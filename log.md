@@ -54,5 +54,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Retreived the roots of a word.
 
 **Thoughts:** One thing resolved, found another one. But that can be resolved as well. Will keep trying.
+
+### Day 9: August 19, 2018
+
+**Today's Progress**: Successfully passed the utf-8 string as an argument to the python file.
+
+**Thoughts:** Unable to decode the byte representation back to the original string.
  
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
