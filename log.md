@@ -49,4 +49,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Spent a lot of time to find out that the program was behaving unexpectedly because of the way I was passing the word!
 
+### Day 8: August 18, 2018
+
+**Today's Progress**: Retreived the roots of a word.
+
+**Thoughts:** One thing resolved, found another one. But that can be resolved as well. Will keep trying.
+ 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
