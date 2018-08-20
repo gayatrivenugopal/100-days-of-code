@@ -60,5 +60,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Successfully passed the utf-8 string as an argument to the python file.
 
 **Thoughts:** Unable to decode the byte representation back to the original string.
+
+### Day 10: August 20, 2018
+
+**Today's Progress**: Decided not to use jython after many experiments.
+
+**Thoughts:** Wonder how long it would take to call a java method from py4j!
  
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
