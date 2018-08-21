@@ -66,5 +66,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Decided not to use jython after many experiments.
 
 **Thoughts:** Wonder how long it would take to call a java method from py4j!
+
+### Day 11: August 21, 2018
+
+**Today's Progress**: Found the required documentation. Used py4 successfully to call a custom Java class method.
+
+**Thoughts:** Many silly thoughtless mistakes led to a lot of bug resolving time but it was worth it.
  
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
