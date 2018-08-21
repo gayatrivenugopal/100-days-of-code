@@ -69,8 +69,8 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 ### Day 11: August 21, 2018
 
-**Today's Progress**: Found the required documentation. Used py4 successfully to call a custom Java class method.
+**Today's Progress**: Found the required documentation. Used py4j successfully to call a custom Java class method. Decided to use py4j to call other methods from other classes as well.
 
-**Thoughts:** Many silly thoughtless mistakes led to a lot of bug resolving time but it was worth it.
+**Thoughts:** Many silly thoughtless mistakes led to a lot of bug resolving time but it was worth it. py4j turned out to be a saviour!
  
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
