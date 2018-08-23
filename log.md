@@ -78,6 +78,12 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Added sentences to the database. Standardized the format of the return values of all the functions.
 
 **Thoughts:** Content with the fact that documentation and conventions are being followed as much as possible.
+
+### Day 13: August 23, 2018
+
+**Today's Progress**: Tried to PS tag a file, but got many errors in the existing code that was downloaded.
+
+**Thoughts:** Hoping to get a working tagger from TDIL asap. Till then, will continue with the rest of the code.
  
 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
