@@ -81,9 +81,14 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 ### Day 13: August 23, 2018
 
-**Today's Progress**: Tried to PS tag a file, but got many errors in the existing code that was downloaded.
+**Today's Progress**: Tried to POS tag a file, but got many errors in the existing code that was downloaded.
 
 **Thoughts:** Hoping to get a working tagger from TDIL asap. Till then, will continue with the rest of the code.
- 
 
+### Day 14: August 24, 2018
+
+**Today's Progress**: Updated values of existing words, found a bug - redundant documents are getting inserted with the updated values.
+
+**Thoughts:** Will fix the bug tomorrow. It may have something to do with the ID of the document.
+ 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
