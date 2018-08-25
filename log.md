@@ -91,4 +91,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Will fix the bug tomorrow. It may have something to do with the ID of the document.
  
+### Day 15: August 25, 2018
+
+**Today's Progress**: Fixed the bug. It was an error in the program.
+
+**Thoughts:** Glad to have found it without losing too much time. Next step, splitting words and retrieving their properties.
+ 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
