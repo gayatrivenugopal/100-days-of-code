@@ -97,4 +97,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Glad to have found it without losing too much time. Next step, splitting words and retrieving their properties.
  
+### Day 16: August 26, 2018
+
+**Today's Progress**: Retrieved the number of characters, consonants, vowels and consonant conjuncts. Fixed a bug.
+
+**Thoughts:** In a hurry, still managed to complete.
+ 
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
