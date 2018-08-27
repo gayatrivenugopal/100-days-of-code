@@ -102,5 +102,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Retrieved the number of characters, consonants, vowels and consonant conjuncts. Fixed a bug.
 
 **Thoughts:** In a hurry, still managed to complete.
+
+### Day 17: August 27, 2018
+
+**Today's Progress**: Counting of syllables is in progress.
+
+**Thoughts:** Need to consider many rules.
  
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
