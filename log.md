@@ -109,4 +109,9 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Need to consider many rules.
  
+### Day 18: August 28, 2018
+
+**Today's Progress**: Counted syllables.
+
+**Thoughts:** Need to test thoroughly. Laborious process.
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
