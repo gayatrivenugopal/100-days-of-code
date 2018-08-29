@@ -114,4 +114,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Counted syllables.
 
 **Thoughts:** Need to test thoroughly. Laborious process.
+
+### Day 19: August 29, 2018
+
+**Today's Progress**: Tested the syllables code. Modified the HWN Java file to count the number of hypernyms, hyponyms etc.
+
+**Thoughts:** Will test this tomorrow.
+
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
