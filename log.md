@@ -121,4 +121,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Will test this tomorrow.
 
+### Day 20: August 30, 2018
+
+**Today's Progress**: Fetched hypernyms, bugs detected in the Java code.
+
+**Thoughts:** Can be fixed, no worries!
+
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
