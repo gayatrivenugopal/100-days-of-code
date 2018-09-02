@@ -127,4 +127,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Can be fixed, no worries!
 
+### Day 21: September 2, 2018
+
+**Today's Progress**: Bug detected when counting properties of words with multiple senses.
+
+**Thoughts:** Can be fixed. Took a break but continuing the challenge.
+
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
