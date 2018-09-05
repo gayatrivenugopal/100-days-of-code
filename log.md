@@ -133,4 +133,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Can be fixed. Took a break but continuing the challenge.
 
+### Day 22: September 5, 2018
+
+**Today's Progress**: Counted hypernyms, hyponyms and synonyms. Bug found while storing in the database.
+
+**Thoughts:** Resuming work after a short break. Dedicating all the commits to a beloved student, Lalit Chandwani, who passed away on Monday. He was a passionate coder, teacher and learner.
+
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
