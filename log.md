@@ -139,4 +139,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Resuming work after a short break. Dedicating all the commits to a beloved student, Lalit Chandwani, who passed away on Monday. He was a passionate coder, teacher and learner.
 
+### Day 23: September 6, 2018
+
+**Today's Progress**: Fixed the bug, retrieved gloss.
+
+**Thoughts:** Work is slow.
+
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
