@@ -145,4 +145,9 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Work is slow.
 
+### Day 24: September 7, 2018
+
+**Today's Progress**: Tried to use the morph analyzer from TDIL. Error found due to encoding format on Windows.
+
+**Thoughts:** Will try to use live linux.
 **Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
