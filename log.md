@@ -150,4 +150,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Today's Progress**: Tried to use the morph analyzer from TDIL. Error found due to encoding format on Windows.
 
 **Thoughts:** Will try to use live linux.
-**Link to work:** [Text Processing Code](https://github.com/gayatrivenugopal/NLP/)
+
+### Day 25: September 11, 2018
+
+**Today's Progress**: Used CSS and created dropdown menus; had to use trial-and-error many times to align it with the existing elements on the page.
+
+**Thoughts:** Not uploading this code on the GitHub page as it's not my personal project.
+
+**Link to work:** NA
