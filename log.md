@@ -158,3 +158,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Thoughts:** Not uploading this code on the GitHub page as it's not my personal project.
 
 **Link to work:** NA
+
+### Day 26: September 12, 2018
+
+**Today's Progress**: Used geopy to read a geojson file.
+
+**Thoughts:** Next step, decide which words to search on social media, and perform the search.
+
+**Link to work:** https://github.com/gayatrivenugopal/GeoPy-Experiments
