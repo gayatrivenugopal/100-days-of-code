@@ -167,7 +167,7 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Link to work:** https://github.com/gayatrivenugopal/GeoPy-Experiments
 
-### Day 26: September 16, 2018
+### Day 27: September 16, 2018
 
 **Today's Progress**: Regression and classification programs using Python.
 
