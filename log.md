@@ -166,3 +166,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Thoughts:** Next step, decide which words to search on social media, and perform the search.
 
 **Link to work:** https://github.com/gayatrivenugopal/GeoPy-Experiments
+
+### Day 26: September 16, 2018
+
+**Today's Progress**: Regression and classification programs using Python.
+
+**Thoughts:** Not uploading this code on the GitHub page as it's part of a MOOC.
+
+**Link to work:** NA
