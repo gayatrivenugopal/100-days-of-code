@@ -174,3 +174,11 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 **Thoughts:** Not uploading this code on the GitHub page as it's part of a MOOC.
 
 **Link to work:** NA
+
+### Day 28: September 22, 2018
+
+**Today's Progress**: Fetched the characteristics of the synonyms of all the synsets of a word in Hindi.
+
+**Thoughts:** Glad that it did not take too much time.
+
+**Link to work:** https://github.com/gayatrivenugopal/NLP
