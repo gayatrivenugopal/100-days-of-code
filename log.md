@@ -181,4 +181,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Glad that it did not take too much time.
 
+### Day 29: September 24, 2018
+
+**Today's Progress**: Used fasttext to classify imdb reviews.
+
+**Thoughts:** Finally, something that I could understand.
+
 **Link to work:** https://github.com/gayatrivenugopal/NLP
