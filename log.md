@@ -187,4 +187,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Finally, something that I could understand.
 
+### Day 30: September 25, 2018
+
+**Today's Progress**: Cleaned a CSV file by removing the first column. Used word2vec.
+
+**Thoughts:** Thankfully, it wasn't too difficult to understand.
+
 **Link to work:** https://github.com/gayatrivenugopal/NLP
