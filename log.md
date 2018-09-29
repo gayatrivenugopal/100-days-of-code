@@ -193,4 +193,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Thankfully, it wasn't too difficult to understand.
 
+### Day 31: September 29, 2018
+
+**Today's Progress**: Cleaning CSV files.
+
+**Thoughts:** Not complete yet.
+
 **Link to work:** https://github.com/gayatrivenugopal/NLP
