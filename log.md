@@ -199,4 +199,10 @@ A fair amount of time was spent in fixing errors and understanding how to call a
 
 **Thoughts:** Not complete yet.
 
+### Day 32: October 1, 2018
+
+**Today's Progress**: Found and used a pre-trained Hindi model with word2vec
+
+**Thoughts:** A trivial task but took a lot of time to search for resources and to implement it
+
 **Link to work:** https://github.com/gayatrivenugopal/NLP
